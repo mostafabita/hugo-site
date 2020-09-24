@@ -1,4 +1,9 @@
 ---
 label: Resume
 hide_body: true
-fields: []
+fields:
+- name: download_here
+  type: text
+  config:
+    required: false
+  label: Download here
