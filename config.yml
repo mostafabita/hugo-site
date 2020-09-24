@@ -1,14 +1,15 @@
 ---
 baseURL: https://mostafabita.netlify.app/
-title: PaperMod
-author: Steve Francia
-copyright: Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.
+title: I'm Mostafa
+author: Mostafa Bita
+copyright: © Copyright 2020 Mostafa Bita
 paginate: 3
 languageCode: en
 DefaultContentLanguage: en
 enableInlineShortcodes: true
 theme: hugo-PaperMod
 params:
+  owner: Mostafa Bita
   description: Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod
   author: Theme PaperMod
   ShowReadingTime: true
@@ -21,24 +22,20 @@ params:
     imageUrl: "#"
     imageTitle: my image
     buttons:
-    - name: Archives
-      url: archives
-    - name: Tags
-      url: tags
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: It's Mostafa Bita
   socialIcons:
-  - name: twitter
-    url: "#"
-  - name: stackoverflow
-    url: "#"
-  - name: codepen
-    url: "#"
-  - name: linkedin
-    url: "#"
-  - name: github
-    url: "#"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mostafabita"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/4497920/mostafa-bita"
+    - name: github
+      url: "https://github.com/mostafabita"
 markup:
   tableOfContents:
     endLevel: 3
@@ -46,15 +43,15 @@ markup:
     startLevel: 1
 menu:
   main:
-  - url: "/series/"
-    name: Portfolio
-    weight: 3
-  - url: "/tags/"
-    name: Resume
-    weight: 2
-  - url: "/archives/"
-    name: Posts
-    weight: 1
+    - url: "/series/"
+      name: Portfolio
+      weight: 3
+    - url: "/tags/"
+      name: Resume
+      weight: 2
+    - url: "/archives/"
+      name: Posts
+      weight: 1
 taxonomies:
   category: categories
   tag: tags
