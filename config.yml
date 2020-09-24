@@ -1,4 +1,4 @@
-baseURL: 'https://adityatelange.github.io/hugo-PaperMod/'
+baseURL: "http://192.168.1.101:8080/"
 title: PaperMod
 author: Steve Francia
 copyright: >-
@@ -12,7 +12,7 @@ enableInlineShortcodes: true
 theme: hugo-PaperMod
 
 params:
-  description: 'Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod'
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: Theme PaperMod
   ShowReadingTime: true
   contentTypeName: posts
@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: false
     title: PaperMod
-    imageUrl: '#'
+    imageUrl: "#"
     imageTitle: my image
     buttons:
       - name: Archives
@@ -35,15 +35,15 @@ params:
 
   socialIcons:
     - name: twitter
-      url: '#'
+      url: "#"
     - name: stackoverflow
-      url: '#'
+      url: "#"
     - name: codepen
-      url: '#'
+      url: "#"
     - name: linkedin
-      url: '#'
+      url: "#"
     - name: github
-      url: '#'
+      url: "#"
 
 markup:
   tableOfContents:
