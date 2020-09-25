@@ -6,7 +6,7 @@ tags = [
     "portfolio",
     "working",
 ]
-hideMeta = true
+hideMeta = false
 +++
 
 Below is a list of some of the main projects I have participated in the last 4-5 years. Most of which require a valid and recognized account to log in.

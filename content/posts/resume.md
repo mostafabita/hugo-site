@@ -6,14 +6,18 @@ tags = [
     "resume",
     "working",
 ]
-hideMeta = true
+hideMeta = false
 +++
 
 ![Avatar](https://avatars3.githubusercontent.com/u/10722240?s=460&v=4#thumbnail)
 
+> **Mostafa Bita** \
+> 📪 [mostafa.bita@gmail.com](mailto:mostafa.bita@gmail.com) \
+> 📌 _Istanbul, Turkey_
+
 &nbsp;
 
-## About
+## 📜 Profile
 
 I am an experienced Full-Stack Developer with a demonstrated history of working in the
 computer software industry for more than 14 years, almost 5 years ago, changing jobs and
@@ -22,18 +26,18 @@ UI, and UX skills, and I love it! I enjoy debugging, solving problems, and creat
 
 &nbsp;
 
-## Experiences
+## 🖥️ Experiences
 
 > **Front-End Architect at Paisley Digital** \
-> Sep 2020 — Sep 2020 \
+> Jul 2020 — Present \
 > _Istanbul, Turkey_
 
-- Danger, men at work ...
+- Danger ⚡ Men at work ...🛠️
 
 &nbsp;
 
 > **Senior Front-End Developer at Techranco** \
-> Dec 2019 — Sep 2020 \
+> Dec 2019 — Oct 2020 \
 > _Tehran, Iran_
 
 - Designing and developing an interactive property inventory platform based on Java EE,
@@ -182,17 +186,48 @@ UI, and UX skills, and I love it! I enjoy debugging, solving problems, and creat
 
 &nbsp;
 
-## Education
+## 🎓 Education
 
 > **University of Science and Culture** \
 > _**Bachelor of Software Science**_ \
 > _Sep 2008 — Jan 2011_ \
 > _Tehran, Iran_
 
+&nbsp;
+
 > **University of Isfahan** \
 > _**Associate’s Degree of Computer Science**_ \
 > _Jan 2005 — Jan 2007_ \
 > _Isfahan, Iran_
+
+&nbsp;
+
+## ⚓ References
+
+> **Jahangir Zinedine** \
+> _Paisley Digital's founder_ \
+> [jahan@paisley.digital](mailto:jahan@paisley.digital) \
+> [+1 (415) 230-0007](<tel:+1(415) 230-0007>)
+
+&nbsp;
+
+> **Charbel Tahech** \
+> _X-Tends's founder_ \
+> [charbel@x-tends.com](mailto:charbel@x-tends.com) \
+> [(+961) 70 129-131](<tel:(+961) 70 129-131>)
+
+&nbsp;
+
+> **Meysam Tamkin** \
+> _Long term fellow_ \
+> [meysam@paisley.digital](mailto:meysam@paisley.digital)
+
+&nbsp;
+
+> **Majid Bita** \
+> _My artist brother_ \
+> [bitamajid@gmail.com](mailto:bitamajid@gmail.com) \
+> [(+39) 380 691-3602](<tel:(+39) 380 691-3602>)
 
 {{< css.inline >}}
 
