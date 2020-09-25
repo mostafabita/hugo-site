@@ -81,15 +81,8 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Aug 2019 — Mar 2020   
 > _Beirut, Lebanon_
 
-* Cooperating for designing and developing an internet banking portal for natural and
-  legal clients of the Capital Bank of Jordan based on Backbase 6 and (A3 and Angular 8.
-  That was a major joint project between Jordan, Lebanon, Portugal, and the Netherlands.
-  The responsibility of our team in the project was the implementation of the Card
-  Management widgets and services.
-* Implementing a web panel for managing our PFM )Personal Financial ManagementS
-  solution. PFM is a digital tool for shaping spending, organizing budgets and monitoring
-  expenses. Customers can achieve goals in a glance and make planning easy and fun to
-  do.
+* Cooperating for designing and developing an internet banking portal for natural and legal clients of the Capital Bank of Jordan based on Backbase 6 and (A3 and Angular 8. That was a major joint project between Jordan, Lebanon, Portugal, and the Netherlands. The responsibility of our team in the project was the implementation of the Card Management widgets and services.
+* Implementing a web panel for managing our PFM )Personal Financial ManagementS solution. PFM is a digital tool for shaping spending, organizing budgets, and monitoring expenses. Customers can achieve goals in a glance and make planning easy and fun to do.
 
  
 
@@ -97,13 +90,8 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Jan 2016 — Aug 2019   
 > _Tehran, Iran_
 
-* Designed and developed an internet banking portal for natural and legal clients of the
-  Bank Melli based on the Backbase Omni-Channel Banking Platform. currently, this portal
-  has nearly 4m users.
-* Redesigned and rewritten the enterprise banking portal for legal clients of Bank Melli
-  based on the Backbase platform. In the process, all the libraries and frameworks
-  used were updated or changed, and the latest versions of libraries such as React and
-  Typescript were used.
+* Designed and developed an internet banking portal for natural and legal clients of the Bank Melli based on the Backbase Omni-Channel Banking Platform. currently, this portal has nearly 4m users.
+* Redesigned and rewritten the enterprise banking portal for legal clients of Bank Melli based on the Backbase platform. In the process, all the libraries and frameworks used were updated or changed, and the latest versions of libraries such as React and Typescript was used.
 * I've been a member and head of the front-end committee.
 * I've been a member of the UX committee.
 * I helped team members debug issues and providing solutions.
@@ -114,16 +102,9 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > May 2014 — Jan 2016   
 > _Tehran, Iran_
 
-* Designed and developed an internal portal to the managing reservation of residential
-  centers of Hawzah.
-* Designed and developed a system for collecting and integrating accurate information
-  of citizen and immigrant children and immigrant children from governmental and
-  non-governmental organizations in order to provide targeted services to children and
-  their families in accordance with the United Nations Convention on the Rights of the
-  Child. (e also implemented a portal for informing people about works and direct
-  interaction with them. These systems were ordered by the Ministry of Justice.
-* Designed and developed an invoice management system for Governmental
-  Discretionary Punishments Organization.
+* Designed and developed an internal portal to the managing reservation of residential centers of Hawzah.
+* Designed and developed a system for collecting and integrating accurate information of citizen and immigrant children and immigrant children from governmental and non-governmental organizations in order to provide targeted services to children and their families in accordance with the United Nations Convention on the Rights of the Child. (e also implemented a portal for informing people about works and direct interaction with them. These systems were ordered by the Ministry of Justice.
+* Designed and developed an invoice management system for Governmental Discretionary Punishments Organization.
 
  
 
@@ -131,9 +112,7 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Feb 2014 — Feb 2015   
 > _Tehran, Iran_
 
-* Redesigned and rewritten the website of a social networking service with more than
-  400k members who intended to increase the scope of their activities and bring their
-  users with a new experience of communication on social networks at that time.
+* Redesigned and rewritten the website of a social networking service with more than 400k members who intended to increase the scope of their activities and bring their users with a new experience of communication on social networks at that time.
 * Designed and developed a community-based online store for the sale of handicrafts.
 
  
@@ -142,19 +121,10 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Sep 2012 — Jan 2014   
 > _Tehran, Iran_
 
-* Designed and developed a discount and group buying website that sells various goods
-  and services at a reduced price, provided that a certain number of buyers purchase the
-  relevant product or service.
-* Designed and developed a website to design quizzes or questions and make it available
-  for free or in exchange for the purchase.
-* Designed and developed a system for managing the distribution of cancer drugs and
-  rare medicines for patients with the aim of easy access of these type of patients to their
-  medications, as well as limiting the illegal hoarding and black market of these type of
-  drugs, on the order of the Ministry of Health and Medical Education.
-* Designed and developed a system for providing government services online and
-  even as much as possible without the need for people to go to any organization or
-  institution with a macroeconomic target on the order of the Management and Planning
-  Organization of the Country.
+* Designed and developed a discount and group buying website that sells various goods and services at a reduced price, provided that a certain number of buyers purchase the relevant products or service.
+* Designed and developed a website to design quizzes or questions and make it available for free or in exchange for the purchase.
+* Designed and developed a system for managing the distribution of cancer drugs and rare medicines for patients with the aim of easy access of these type of patients to their medications, as well as limiting the illegal hoarding and black market of these type of drugs, on the order of the Ministry of Health and Medical Education.
+* Designed and developed a system for providing government services online and even as much as possible without the need for people to go to any organization or institution with a macroeconomic target on the order of the Management and Planning Organization of the Country.
 
  
 
@@ -162,17 +132,9 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Apr 2011 — Sep 2012   
 > _Tehran, Iran_
 
-* Designed and developed an integrated management system for civil servants, one of
-  its goals was to integrate the system of salaries and beneCts of about 2.5m official
-  government employees, which was previously carried out non-systemically on the order
-  of the Administrative and Recruitment Affairs Organization.
-* Designed and developed an integrated credit system to provide e-services in the
-  financial area of municipalities and villagers, part of which was the electronic
-  implementation of the crediting of municipalities and villages in the country. This system
-  was ordered by the countryQs municipalities and village administrators.
-* Designed and implemented the Engineers Club website to provide welfare, financial,
-  educational, sports, and tourism services to engineers of the entire country based on
-  their membership in the engineering organization.
+* Designed and developed an integrated management system for civil servants, one of its goals was to integrate the system of salaries and beneCts of about 2.5m official government employees, which was previously carried out non-systemically on the order of the Administrative and Recruitment Affairs Organization.
+* Designed and developed an integrated credit system to provide e-services in the financial area of municipalities and villagers, part of which was the electronic implementation of the crediting of municipalities and villages in the country. This system was ordered by the Country's municipalities and village administrators.
+* Designed and implemented the Engineers Club website to provide welfare, financial, educational, sports, and tourism services to engineers of the entire country based on their membership in the engineering organization.
 
  
 
@@ -180,11 +142,9 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Feb 2010 — Apr 2011   
 > _Qom, Iran_
 
-* Redesigned and rewritten the companyQs website to better introduce the company and
-  inform about the activities and conferences that the company holds.
+* Redesigned and rewritten the company's website to better introduce the company and inform about the activities and conferences that the company holds.
 * I was a member of the content management team.
-* At that time, more than 10 personal websites were created for the companyQs specific
-  customers that I was responsible for producing, implementing and maintaining them.
+* At that time, more than 10 personal websites were created for the company's specific customers that I was responsible for producing, implementing, and maintaining them.
 
  
 
@@ -192,9 +152,7 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > Jan 2009 — Feb 2010   
 > _Qom, Iran_
 
-* Designed and developed a windows application for quick search in the database of
-  guilds and businesses of qom province, which was presented in VD format with a YP
-  book produced and marketed by the company.
+* Designed and developed a windows application for quick search in the database of guilds and businesses of Qom province, which was presented in CD format with a YP book produced and marketed by the company.
 
  
 
@@ -256,7 +214,7 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 {{< css.inline >}}
 
 <style>
-img\[src*="#thumbnail"\] {
+img {
 border-radius: 50%;
 width: 150px;
 height: 150px;
