@@ -16,6 +16,15 @@ params:
   contentTypeName: posts
   defaultTheme: auto
   ShowShareButtons: true
+  google_fonts:
+    - - Dancing Script
+      - "700"
+    - - Open Sans
+      - "300, 400"
+    - - Lobster
+      - "400"
+    - - Fira Code
+      - "400"
   profileMode:
     enabled: false
     title: PaperMod

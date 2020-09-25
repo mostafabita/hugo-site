@@ -11,9 +11,10 @@ hideMeta = false
 
 ![Avatar](https://avatars3.githubusercontent.com/u/10722240?s=460&v=4#thumbnail)
 
-> **Mostafa Bita** \
-> 📪 [mostafa.bita@gmail.com](mailto:mostafa.bita@gmail.com) \
-> 📌 _Istanbul, Turkey_
+## Mostafa Bita
+
+📪 [mostafa.bita@gmail.com](mailto:mostafa.bita@gmail.com) \
+📌 _Istanbul, Turkey_
 
 &nbsp;
 
@@ -26,13 +27,42 @@ UI, and UX skills, and I love it! I enjoy debugging, solving problems, and creat
 
 &nbsp;
 
+## ⚙️ Skills
+
+`JavaScript`
+`ES6+`
+`TypeScript`
+`Angular`
+`React`
+`Node.js`
+`AngularJS`
+`CSS`
+`Sass`
+`HTML5`
+`Webpack`
+`RequireJS`
+`Gulp`
+`Web Design`
+`ASP.NET`
+`MVC.NET`
+`SQL Server`
+`C#`
+`C++`
+`Git`
+`RESTful API`
+`Agile Methodologies`
+`Scrum`
+`Backbase`
+
+&nbsp;
+
 ## 🖥️ Experiences
 
 > **Front-End Architect at Paisley Digital** \
 > Jul 2020 — Present \
 > _Istanbul, Turkey_
 
-- Danger ⚡ Men at work ...🛠️
+- Danger ⚡ Men at work ... 💻
 
 &nbsp;
 
@@ -236,6 +266,10 @@ img[src*="#thumbnail"] {
    border-radius: 50%;
    width: 150px;
    height: 150px;
+}
+code{
+  line-height: 2.8!important;
+  font-weight: bold;
 }
 </style>
 
