@@ -1,6 +1,6 @@
 ---
 baseURL: https://mostafabita.netlify.app/
-title: I'm Mostafa
+title: Mostafa Bita
 author: Mostafa Bita
 copyright: © Copyright 2020 Mostafa Bita
 paginate: 3
@@ -27,8 +27,8 @@ params:
       - name: Tags
         url: tags
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: It's Mostafa Bita
+    Title: "I'm Mostafa Bita \U0001F44B"
+    Content: Front-end Architect and Developer
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/mostafabita"
@@ -43,15 +43,12 @@ markup:
     startLevel: 1
 menu:
   main:
-    - url: "/series/"
-      name: Portfolio
-      weight: 3
-    - url: "/tags/"
+    - url: "/posts/resume/"
       name: Resume
-      weight: 2
-    - url: "/archives/"
-      name: Posts
       weight: 1
+    - url: "/posts/portfolio/"
+      name: Portfolio
+      weight: 2
 taxonomies:
   category: categories
   tag: tags
