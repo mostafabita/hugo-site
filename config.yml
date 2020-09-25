@@ -10,8 +10,8 @@ enableInlineShortcodes: true
 theme: hugo-PaperMod
 params:
   owner: Mostafa Bita
-  description: Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod
-  author: Theme PaperMod
+  description: Front-end Architect and Developer
+  author: Mostafa Bita
   ShowReadingTime: true
   contentTypeName: posts
   defaultTheme: auto
