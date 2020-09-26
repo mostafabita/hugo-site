@@ -9,10 +9,8 @@ title = "My Resume"
 
 ![Avatar](https://avatars3.githubusercontent.com/u/10722240?s=460&v=4#thumbnail)
 
-## Mostafa Bita
-
-📪 [mostafa.bita@gmail.com](mailto:mostafa.bita@gmail.com)  
-📌 _Istanbul, Turkey_
+📧 [mostafa.bita@gmail.com](mailto:mostafa.bita@gmail.com)  
+🗺️ Istanbul, Turkey
 
 ## 📜 Profile
 
@@ -184,14 +182,14 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > **Jahangir Zinedine**  
 > _Paisley Digital's founder_  
 > [jahan@paisley.digital](mailto:jahan@paisley.digital)  
-> \[+1 (415) 230-0007\](<tel:+1(415) 230-0007>)
+> [+1 (415) 230-0007](<tel:+1(415) 230-0007>)
 
 &nbsp;
 
 > **Charbel Tahech**  
 > _X-Tends's founder_  
 > [charbel@x-tends.com](mailto:charbel@x-tends.com)  
-> \[(+961) 70 129-131\](<tel:(+961) 70 129-131>)
+> [(+961) 70 129-131](<tel:(+961) 70 129-131>)
 
 &nbsp;
 
@@ -204,7 +202,7 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 > **Majid Bita**  
 > _My artist brother_  
 > [bitamajid@gmail.com](mailto:bitamajid@gmail.com)  
-> \[(+39) 380 691-3602\](<tel:(+39) 380 691-3602>)
+> [(+39) 380 691-3602](<tel:(+39) 380 691-3602>)
 
 &nbsp;
 
@@ -216,7 +214,7 @@ I am an experienced Full-Stack Developer with a demonstrated history of working 
 
 <style>
 img {
-border-radius: 50%;
+border-radius: 50%!important;
 width: 150px;
 height: 150px;
 }
