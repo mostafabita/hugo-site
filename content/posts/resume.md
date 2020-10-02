@@ -14,7 +14,7 @@ title = "My Resume"
 
 ## 📜 Profile
 
-I am an experienced Full-Stack Developer with a demonstrated history of working in the computer software industry for more than 14 years, almost 5 years ago while changing jobs, I started working on a product which has been used by hundreds of thousands of customers on a daily basis, inspired me to be focused on front-end development, UI, and UX skills, and I loved it and still do so! I enjoy building stunning apps, debugging, and solving problems.
+I am a front-end developer, with more than a decade of experience in programming, design, and architecture, who also has worked as a back-end developer for a long time, almost 5 years ago while changing jobs, I started working on a product which has been used by hundreds of thousands of customers on a daily basis, inspired me to be focused on front-end development, UI, and UX skills, and I loved it and still do so! I enjoy building stunning apps, debugging, and solving problems.
 
 ## ⚙️ Skills
 
